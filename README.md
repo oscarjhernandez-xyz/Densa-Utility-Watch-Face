@@ -1,9 +1,7 @@
 # Densa Utility Watch Face
 Watch face inspired by Google's Utility watch face with a focus on compacting information and complications
 
-The overall goal of this watch face is to provide a sleek "OLED" look while giving the user access to utilize as much or as little as possible when customizing complications. 
-
-As this is meant to build upon the design Google's Utility watch face, some improvements include the ability to display seconds and bumping the number up from 4 complications to 11.
+The overall goal of this watch face is to provide a sleek "OLED" look while giving the user access to utilize as much or as little of the screen as possible when customizing complications. As this is meant to build upon the design Google's Utility watch face, some improvements include the ability to display seconds and bumping the number up from 4 possible complications to 11.
 
 ## ~~Screenshots~~
 
