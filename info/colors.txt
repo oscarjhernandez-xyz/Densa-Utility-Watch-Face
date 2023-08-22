@@ -1,35 +1,35 @@
-#949494
-#e4e4e4
-#fbf7ec
-#ed827b
-#eb9a8b
-#f2a9a2
-#f5c2bf
-#f2b995
-#f8d6b9
-#d0ad7d
-#c1b67e
-#f0c987
-#f9d994
-#fbeabf
-#fefb96
-#fdffbd
-#eefeca
-#ecfe8e
-#d2fd91
-#b3f5b3
-#7fd69b
-#7c988c
-#bdfde0
-#c7ebdd
-#d0e3de
-#bbe2e9
-#a6effd
-#cee9fd
-#a8c2f3
-#8aabee
-#afb3f9
-#d3c4fa
-#dbb2f8
-#f1befb
-#f7cdeb
+#949494 Graphite
+#e4e4e4 Cloud
+#fbf7ec Almond
+#ed827b Watermelon
+#eb9a8b Coral
+#f2a9a2 Pomelo
+#f5c2bf Guava
+#f2b995 Peach
+#f8d6b9 Champagne
+#d0ad7d Chai
+#c1b67e Sand
+#f0c987 Honey
+#f9d994 Melon
+#fbeabf Wheat
+#fefb96 Dandelion
+#fdffbd Limoncello
+#eefeca Lemongrass
+#ecfe8e Lime
+#d2fd91 Pear
+#b3f5b3 Spearmint
+#7fd69b Fern
+#7c988c Forest
+#bdfde0 Mint
+#c7ebdd Jade
+#d0e3de Sage
+#bbe2e9 Stream
+#a6effd Aqua
+#cee9fd Sky
+#a8c2f3 Ocean
+#8aabee Sapphire
+#afb3f9 Amethyst
+#d3c4fa Lilac
+#dbb2f8 Lavendar
+#f1befb Flamingo
+#f7cdeb Bubble Gum
